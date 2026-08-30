@@ -1,5 +1,7 @@
 Name: Eshika Nahata  
 Roll Number: DA24B004
-
-Repository for Question 3 of DA3408 Assignment 1: [Question 3](https://github.com/eshikanahata/DA3408_Assignment1_Question3)  
-Repository for Question 4 of DA3408 Assignment 1: [Question 4](https://github.com/eshikanahata/DA3408_Assignment1_Question4)
+  
+Question 1: The writeup can be found under [question1](./question1/)  
+Question 2: The writeup as well as training script can be found under [question2](./question2/)  
+Question 3: [Repository](https://github.com/eshikanahata/DA3408_Assignment1_Question3)  
+Question 4: [Repository](https://github.com/eshikanahata/DA3408_Assignment1_Question4)  
